@@ -1,0 +1,10 @@
+Name: Jack
+
+Detail 1#
+Beard
+
+Detail 2#
+Brown hair
+
+Detail 3#
+Blue eyes
