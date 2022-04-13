@@ -2,8 +2,8 @@ from simple_calc import SimpleCalc
 
 import unittest
 
-class Calctests(unittest.TestCase):
 
+class Calctests(unittest.TestCase):
     calc = SimpleCalc()
 
     def test_add(self):
