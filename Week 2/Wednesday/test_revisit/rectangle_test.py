@@ -1,10 +1,15 @@
 from rectangle import *
 
+r = Rectangle(width=10,height=5)
 
 def test_get_width():
-    r = Rectangle(width=10,height=5)
     assert r.width == 10
 
 def test_get_height():
-    r = Rectangle(width=10,height=5)
     assert r.height == 5
+
+def test_get_area():
+    assert r.get_area() == 50
+#
+# def test_get_perimeter():
+#     assert r.get_perimiter == 30
