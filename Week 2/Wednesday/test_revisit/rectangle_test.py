@@ -10,6 +10,7 @@ def test_get_height():
 
 def test_get_area():
     assert r.get_area() == 50
-#
-# def test_get_perimeter():
-#     assert r.get_perimiter == 30
+
+def test_get_perimeter():
+    assert r.get_perimeter() == 30
+
