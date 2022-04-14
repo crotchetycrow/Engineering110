@@ -20,3 +20,13 @@ Tueday
 - [x] File handling
 - [x] CSV, ETL
 
+Wednesday
+- [x] TDD revisit
+- [x] JSON intro
+- [x] Restaurant challenge (Testing in practice)
+
+Thursday
+- [x] What is HTTP?
+- [x] What is API?
+- [x] Working with APIs using HTTP (get, post)
+- [ ] Creating packages
